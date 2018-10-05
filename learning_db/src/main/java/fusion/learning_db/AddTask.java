@@ -8,8 +8,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import static fusion.learning_db.R.id.editTaskText;
-
 public class AddTask extends AppCompatActivity {
 
     Button btnAdd;
