@@ -6,7 +6,7 @@
 In this version of the app there are two activities: first for showing all tasks and to close completed, second - for creating new task.
 Storage: SQLite
 
-![Image alt](https://github.com/evFusion/TodoApp/blob/master/learning_db/src/main/res/drawable/todo-app-logo.jpg)
+![Image alt](https://github.com/evFusion/TodoApp/blob/master/todo-app-logo.jpg)
 
 In plans for future: 
 * Implement creating task using AlertDialog. 
